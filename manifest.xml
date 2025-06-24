@@ -30,7 +30,7 @@
   <AppDomains>
     <AppDomain>https://contoso.com</AppDomain>
     <AppDomain>https://localhost:3000</AppDomain>
-    <AppDomain>https://your-domain.github.io</AppDomain>
+    <AppDomain>https://legacycoachjuan.github.io</AppDomain>
   </AppDomains>
   
   <!--End Basic Settings. -->
@@ -41,7 +41,7 @@
   </Hosts>
   <DefaultSettings>
     <!-- IMPORTANT! Replace this URL with your actual hosted HTML file location -->
-    <SourceLocation DefaultValue="https://localhost:3000/bracket-replacer.html" />
+    <SourceLocation DefaultValue="https://legacycoachjuan.github.io/bracket-replacer/bracket-replacer.html" />
   </DefaultSettings>
   
   <!-- End TaskPane Mode integration.  -->
@@ -128,8 +128,8 @@
       <bt:Urls>
         <!-- IMPORTANT! Replace these URLs with your actual hosted file locations -->
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
-        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html" />
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/bracket-replacer.html" />
+        <bt:Url id="Commands.Url" DefaultValue="https://legacycoachjuan.github.io/bracket-replacer/commands.html" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://legacycoachjuan.github.io/bracket-replacer/bracket-replacer.html" />
       </bt:Urls>
       <!-- ShortStrings max characters==125. -->
       <bt:ShortStrings>
